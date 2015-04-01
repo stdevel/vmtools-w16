@@ -11,6 +11,6 @@ The software currently supports:
 - famous **Intel 8086 turbo button** emulation
 - emulation of **5.25“ floppy drives** and their sound for a **better user-experience**
 
-Additional features like **10 Gbit/s** network cards and **InfiniBand** are planned for the future.
+Additional features like **10 Gbit/s** network cards and **InfiniBand** are planned for the future. Don't hesitate to let me know if you have other useful ideas.
 
 Simply put the EXE file into autorun to enable it after starting Windows 3.x. Feel free to alter the Visual Basic 3.0 source code.
