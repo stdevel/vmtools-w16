@@ -1,6 +1,8 @@
 # vmtools-w16
 `vmtools-w16` is a set of tweaks and drivers for Windows 3.x running in VMware environments. It should assist customers running it in productive environments as VMware tools currently don’t support Windows 3.x.
 
+**Yep folks, this was just a April fool's joke. :-)**
+
 ![Example satprep maintenance report](https://raw.githubusercontent.com/stdevel/vmtools-w16/master/Screenshot.jpg "vmtools-w16 screenshot")
 
 The software currently supports:
